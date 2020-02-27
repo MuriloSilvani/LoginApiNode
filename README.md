@@ -5,11 +5,29 @@
 - [ ] Open a pull request
 
 ## Models
-<details>
 > Usuario
 ```js
 {
   nome: "Name Example"
 }
 ```
-</details>
+> Unidades
+```js
+{
+  cidade: "Cidade Example",
+  uf: "UF",
+  endereco: "Endereço Example"
+}
+```
+> Cargo
+```js
+{
+  descricao: "Cargo Example"
+}
+```
+> NiveisAcesso
+```js
+{
+  descricao: "NiveisAcesso Example"
+}
+```
