@@ -5,15 +5,7 @@
 - [ ] Open a pull request
 
 ## Models
-<details>
-<summary>Usuario</summary><br>
-```js
-{
-  nome: "Name Example"
-}
-```
-</details>
-
+> Usuario
 ```js
 {
   nome: "Name Example"
