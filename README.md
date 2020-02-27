@@ -1,10 +1,20 @@
 # Login Api - Node
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] CRUD Usuarios
+-- [x] store
+-- [x] destroy
+-- [x] update
+-- [x] index
+-- [x] show
+- [ ] CRUD Cargos
+- [ ] CRUD NiveisPermissao
+- [ ] CRUD Unidades
+- [x] Login
 
-## Models
+# Routes
+
+
+# Models
 > Usuario
 ```js
 {
