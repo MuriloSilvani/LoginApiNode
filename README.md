@@ -5,9 +5,11 @@
 - [ ] Open a pull request
 
 ## Models
+<details>
 > Usuario
 ```js
 {
   nome: "Name Example"
 }
 ```
+</details>
