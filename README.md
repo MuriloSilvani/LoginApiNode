@@ -12,5 +12,12 @@
   nome: "Name Example"
 }
 ```
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 </details>
 
