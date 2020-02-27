@@ -1,11 +1,11 @@
 # Login Api - Node
 
-- [x] CRUD Usuarios
--- [x] store
--- [x] destroy
--- [x] update
--- [x] index
--- [x] show
+* - [x] CRUD Usuarios
+** - [x] store
+** - [x] destroy
+** - [x] update
+** - [x] index
+** - [x] show
 - [ ] CRUD Cargos
 - [ ] CRUD NiveisPermissao
 - [ ] CRUD Unidades
