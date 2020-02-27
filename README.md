@@ -7,16 +7,9 @@
 ## Models
 <details>
 <summary>Usuario</summary><br>
-```javascript
+```js
 {
   nome: "Name Example"
-}
-```
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
 }
 ```
 </details>
