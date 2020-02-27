@@ -6,10 +6,25 @@
   * - [x] update
   * - [x] index
   * - [x] show
-- [ ] CRUD Cargos
-- [ ] CRUD NiveisPermissao
-- [ ] CRUD Unidades
-- [x] Login
+* - [ ] CRUD Cargos
+  * - [ ] store
+  * - [ ] destroy
+  * - [ ] update
+  * - [ ] index
+  * - [ ] show
+* - [ ] CRUD NiveisPermissao
+  * - [ ] store
+  * - [ ] destroy
+  * - [ ] update
+  * - [ ] index
+  * - [ ] show
+* - [ ] CRUD Unidades
+  * - [ ] store
+  * - [ ] destroy
+  * - [ ] update
+  * - [ ] index
+  * - [ ] show
+* - [x] Login
 
 # Routes
 
